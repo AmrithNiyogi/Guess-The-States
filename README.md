@@ -46,7 +46,7 @@ The project has two main directories:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AmrithNiyogi/guess-the-states.git
+    git clone https://github.com/AmrithNiyogi/Guess-The-States.git
     ```
 
 2. Navigate to the project directory:
