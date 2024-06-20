@@ -4,15 +4,15 @@ This project contains two interactive games to help users learn the states of th
 
 ## Table of Contents
 
--[Overview](#overview)
+- [Overview](#overview)
 1. [Project Structure](#project-structure)
--[Features](#features)
--[Installation](#installation)
--[Usage](#usage)
--[How to Play and Controls](#how-to-play-and-controls)
--[Code Structure](#code-structure)
--[Contributing](#contributing)
--[License](#license)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How to Play and Controls](#how-to-play-and-controls)
+- [Code Structure](#code-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Overview
 
