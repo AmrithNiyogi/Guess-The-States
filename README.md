@@ -106,7 +106,7 @@ If `states.csv` is not available or needs to be updated:
 - Enter the word `Exit` to end the game.
 Enjoy learning the states!
 
-## Code Structures
+## Code Structure
 
 ### US States Game
 
