@@ -5,7 +5,7 @@ This project contains two interactive games to help users learn the states of th
 ## Table of Contents
 
 - [Overview](#overview)
-1. [Project Structure](#project-structure)
+    - [Project Structure](#project-structure)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
