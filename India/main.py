@@ -21,10 +21,13 @@ if __name__ == '__main__':
 
         # If the user types "Exit", break out of the loop and save missing states to a CSV file
         if answer_state == "Exit":
+            """
             missing_states = []  # Initialize an empty list for missing states
             for state in all_states:  # Loop through all states
                 if state not in guessed_states:  # Check if the state has not been guessed
                     missing_states.append(state)  # Add the state to the missing states list
+            """
+            missing_states = [state for state in all_states if state not in guessed_states] # Used list comprehension to simply the above code
             new_data = pd.DataFrame(missing_states)  # Create a DataFrame from the missing states list
             new_data.columns = ["State"]  # Rename the column to "State"
             new_data.to_csv("states_to_learn.csv", index=False)  # Save the DataFrame to a CSV file
